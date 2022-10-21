@@ -95,7 +95,15 @@ function generateMarkdown(data) {
   \n## Table of Contents
   \n- [Installation](#installation)
   \n- [Usage](#usage)
-  \n- [License](#license)
+  ${((license) => {
+      if (license == "None") {
+        return ""
+      }
+      else {
+        return "\n- [License](#license)"
+      }
+    })(data.license)
+    }
   \n- [Contributing](#contributing)
   \n- [Tests](#tests)
   \n- [Questions](#questions)
