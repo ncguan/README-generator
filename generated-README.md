@@ -1,10 +1,10 @@
 # Example Project
   
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
   
 ## Description
   
-this is an example
+it's a project
   
 ## Table of Contents
   
@@ -28,22 +28,22 @@ install it
   
 ## Usage
   
-you can use it
+start using it
   
 ## License
     
-This project is licensed under the MIT License.
+This project is licensed under the BSD 2-Clause License.
   
 ## Contributing
   
-n/a
+contribute to it
   
 ## Tests
   
 To run tests, run the following command:
   
-n/a
+run some tests
   
 ## Questions
   
-If you have any questions about the repo, open an issue or contact me directly at example@gmail.com. You can find more of my work at [ncguan](https://github.com/ncguan).
+If you have any questions about the repo, open an issue or contact me directly at example@email.com. You can find more of my work at [ncguan](https://github.com/ncguan).
