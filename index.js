@@ -26,9 +26,10 @@ const questions = [
         message: "Please write a short description of your project."
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: "What kind of license should your project have?"
+        message: "What kind of license should your project have?",
+        choices: ["None", "Apache 2.0 License", "Boost Software License 1.0", "BSD 3-Clause License", "BSD 2-Clause License", "GNU General Public License v3.0", "GNU General Public License v2.0", "GNU Affero General Public v3.0", "MIT License", "Mozilla Public License 2.0", "The Unlicense"]
     },
     {
         type: 'input',
