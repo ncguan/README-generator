@@ -119,7 +119,7 @@ function generateMarkdown(data) {
   \nTo run tests, run the following command:
   \n${data.test}
   \n## Questions
-  \nIf you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at ${data.username}.
+  \nIf you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.username}](https://github.com/${data.username}).
 `;
 }
 
